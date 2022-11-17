@@ -115,14 +115,6 @@ http://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
 http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qingting.fm/2020/0701/20200701052348.png" group-title="综合广播" radio="true",天津静海区综合广播·交通广播网
 http://starfish.bj.aliyun.001.qingting.fm:8000/jingdianFM1008
-#EXTINF:-1 radio=true tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/海峡之声文化生活广播.png" group-title="综合广播" radio="true",海峡之声·文化生活广播
-mmst://27.151.117.209/996
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/海峡之声新闻广播.png" group-title="综合广播" radio="true",海峡之声·新闻广播
-http://www.vos.com.cn/live/liveNew/800k/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/海峡之声闽南语广播.png" group-title="综合广播" radio="true",海峡之声·闽南话广播
-http://47.107.255.25:1935/live/liveMn/800k/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/中国华艺广播.png" group-title="综合广播" radio="true",中国华艺广播
-http://47.107.255.25:1935/live/chbc/800k/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://wx3.sinaimg.cn/mw2000/74c40dealy8gq8y3155j1j20u00u0myp.jpg" group-title="综合广播" radio="true",湖南潇湘之声
 http://satellitepull.cnr.cn/live/wx32hunyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img-ossimg.ajmide.com/program/29834-1GFeSt_331x331.jpg@350w_1l" group-title="综合广播" radio="true",湖南经济广播
@@ -135,22 +127,6 @@ http://satellitepull.cnr.cn/live/wx32hunjtgb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wx32955/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/湖南新闻综合广播.png" group-title="综合广播" radio="true",湖南综合广播
 http://satellitepull.cnr.cn/live/wx32hunxwgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/京津冀之声.png" group-title="综合广播" radio="true",北京京津冀之声
-http://audiolive.rbc.cn:1935/live/fm945/96K/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/北京新闻广播.png" group-title="综合广播" radio="true",北京新闻广播
-http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/北京交通广播.png" group-title="综合广播" radio="true",北京交通广播
-http://audiolive.rbc.cn:1935/live/fm1039/96K/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="1879" tvg-name="BTV青年" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/北京青年广播.png" group-title="综合广播" radio="true",北京青年广播
-http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/北京外语广播.png" group-title="综合广播" radio="true",北京外语广播
-http://audiolive.rbc.cn:1935/live/am774/96K/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/北京城市广播.png" group-title="综合广播" radio="true",北京城市广播·副中心之声
-http://audiolive.rbc.cn:1935/live/fm1073/96K/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/北京文艺广播.png" group-title="综合广播" radio="true",北京文艺广播
-http://123.56.16.201:1935/live/fm876/96K/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/北京故事广播.png" group-title="综合广播" radio="true",北京故事广播
-http://123.56.16.201:1935/live/am603/96K/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/北京体育广播.png" group-title="综合广播" radio="true",北京体育广播
 http://audiolive.rbc.cn:1935/live/fm1025/96K/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/江苏故事广播.png" group-title="综合广播" radio="true",江苏故事广播
@@ -371,14 +347,6 @@ http://satellitepull.cnr.cn/live/wxlnxcgb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxlnjjtb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/辽宁交通广播.png" group-title="综合广播" radio="true",辽宁交通广播
 http://satellitepull.cnr.cn/live/wxlnjtgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/厦门综合广播.png" group-title="综合广播" radio="true",厦门综合广播
-https://live1.kxm.xmtv.cn/aac_zhgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/厦门旅游广播.png" group-title="综合广播" radio="true",厦门旅游广播
-https://live1.kxm.xmtv.cn/aac_xmly/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/厦门经济交通广播.png" group-title="综合广播" radio="true",厦门经济交通广播
-https://live1.kxm.xmtv.cn/aac_xmjjjt/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/闽南之声.png" group-title="综合广播" radio="true",厦门闽南之声
-https://live1.kxm.xmtv.cn/aac_mnzs/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/福州左海之声.png" group-title="综合广播" radio="true",福州左海之声
 http://live.zohi.tv/audio/s10001-FM901/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/福州交通广播.png" group-title="综合广播" radio="true",福州交通之声
@@ -498,14 +466,6 @@ http://fms.yyrtv.com:82/hls-live/livepkgr/_definst_/liveevent/fm997.m3u8
 http://fms.yyrtv.com:82/hls-live/livepkgr/_definst_/liveevent/fm881.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/开州之声.png" group-title="综合广播" radio="true",开州之声
 http://183.64.174.171:10124/tlgb.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/镇江文艺广播.png" group-title="综合广播" radio="true",镇江文艺广播·翡翠963
-http://live.zjmc.tv/6/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/镇江交通广播.png" group-title="综合广播" radio="true",镇江交通广播
-http://live.zjmc.tv/5/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/镇江综合广播.png" group-title="综合广播" radio="true",镇江综合广播
-http://live.zjmc.tv/4/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/镇江经济广播.png" group-title="综合广播" radio="true",镇江经济广播
-http://live.zjmc.tv/7/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/山西健康之声.png" group-title="综合广播" radio="true",山西健康之声广播
 rtmp://radiolive.sxrtv.com/live/jiankang
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/山西农村广播.png" group-title="综合广播" radio="true",山西农村广播
@@ -944,33 +904,3 @@ http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
 http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="电视伴音",新疆卫视
 http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
-#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="电视伴音",北京新闻
-https://wstvalic.v.myalicdn.com/wstv/btv9_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="电视伴音",北京文艺
-https://wstvalic.v.myalicdn.com/wstv/btv2_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" group-title="电视伴音",北京科教
-https://wstvalic.v.myalicdn.com/wstv/btv3_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="电视伴音",北京影视
-https://wstvalic.v.myalicdn.com/wstv/btv4_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="电视伴音",北京财经
-https://wstvalic.v.myalicdn.com/wstv/btv5_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="电视伴音",北京冬奥纪实
-https://wstvalic.v.myalicdn.com/wstv/btv6_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png" group-title="电视伴音",北京生活
-https://wstvalic.v.myalicdn.com/wstv/btv7_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 tvg-id="1879" tvg-name="BTV青年" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV青年.png" group-title="电视伴音",北京青年
-https://wstvalic.v.myalicdn.com/wstv/btv8_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="电视伴音",中国教育1
-https://wstvalic.v.myalicdn.com/wstv/cetv1_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="电视伴音",中国教育2
-https://wstvalic.v.myalicdn.com/wstv/cetv2_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="电视伴音",中国教育3
-https://wstvalic.v.myalicdn.com/wstv/cetv3_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="电视伴音",中国教育4
-https://wstvalic.v.myalicdn.com/wstv/cetv4_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://c1.fengshows-cdn.com/a/2021_22/79dcc3a9da358a3.png" group-title="电视伴音",凤凰卫视资讯台
-rtsp://hkss3.phoenixtv.com:80/fs/pic.stream_audio
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://c1.fengshows-cdn.com/a/2021_22/ede3d9e09be28e5.png" group-title="电视伴音",凤凰卫视中文台
-rtsp://hkss3.phoenixtv.com:80/fs/pcc.stream_audio
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://c1.fengshows-cdn.com/a/2021_23/325d941090bee17.png" group-title="电视伴音",凤凰卫视香港台
-rtsp://hkss3.phoenixtv.com:80/fs/phk.stream_audio
