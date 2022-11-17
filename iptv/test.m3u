@@ -36,7 +36,7 @@ http://cmjx.ipv6.live.fanmingming.com:6610/PLTV/88888910/224/3221225909/index.m3
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K  
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV4EUO" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4EUO.png" group-title="央视",中文欧洲
-http://cmnm.ipv6.live.fanmingming.com/wh7f454c46tw4202609999_-893197627/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225969/10000100000000060000000000890997_0.smil/01.m3u8?fmt=ts2hls
+http://[2409:8087:1020:301:2026::2b]/wh7f454c46tw4202609999_-893197627/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225969/10000100000000060000000000890997_0.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV4AME" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4AME.png" group-title="央视",中文美洲
 http://[2409:8087:1020:301:2026::18]:80/wh7f454c46tw4202898867_317667261/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225970/10000100000000060000000000890996_0.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN中文
