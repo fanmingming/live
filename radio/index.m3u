@@ -223,7 +223,7 @@ http://live-hls.ihzlh.linker.cc/ihzlh/sd_ts01_95.m3u8
 http://live-hls.ihzlh.linker.cc/ihzlh/sd_ts03_975.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/山东交通广播.png" group-title="综合广播" radio="true",山东交通广播
 http://satellitepull.cnr.cn/live/wxsdjtgb/playlist.m3u8
-#EXTINF:-1 tvg-id="1428" tvg-name="山东体育" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/山东体育休闲广播.png" group-title="地方",山东体育休闲广播
+#EXTINF:-1 tvg-id="1428" tvg-name="山东体育" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/山东体育休闲广播.png" group-title="综合广播",山东体育休闲广播
 http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/山东经济广播.png" group-title="综合广播" radio="true",山东经济广播
 http://satellitepull.cnr.cn/live/wxsdjjgb/playlist.m3u8
