@@ -51,7 +51,7 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225694/2/index.
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png" group-title="国际",凤凰资讯
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="7183" tvg-name="AlJazeeraEnglish" tvg-logo="https://raw.githubusercontent.com/goolguy007/radioer/main/aljazeera.png" group-title="国际",半岛新闻
+#EXTINF:-1 tvg-id="7183" tvg-name="AlJazeeraEnglish" tvg-logo="https://live.fanmingming.com/tv/aljazeera.png" group-title="国际",半岛新闻
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",体育赛事
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225706/index.m3u8
@@ -225,13 +225,13 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/ind
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="https://live.fanmingming.com/tv/QSJL.png" group-title="数字",求索纪录
 http://111.11.123.30:6610/000000001000/6000000002000032052/1.m3u8?Contentid=6000000002000032052&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="芒果华语电影" tvg-name="芒果华语电影" group-title="数字",芒果华语
+#EXTINF:-1 tvg-id="芒果华语电影" tvg-name="芒果华语电影" tvg-logo="https://live.fanmingming.com/tv/hunan.png" group-title="数字",芒果华语
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="芒果TV独播" tvg-name="芒果TV独播" group-title="数字",芒果独播
+#EXTINF:-1 tvg-id="芒果TV独播" tvg-name="芒果TV独播" tvg-logo="https://live.fanmingming.com/tv/hunan.png" group-title="数字",芒果独播
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="芒果欧美电影" tvg-name="芒果欧美电影" group-title="数字",芒果欧美
+#EXTINF:-1 tvg-id="芒果欧美电影" tvg-name="芒果欧美电影" tvg-logo="https://live.fanmingming.com/tv/hunan.png" group-title="数字",芒果欧美
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="芒果综艺4K" tvg-name="芒果综艺4K" group-title="数字",芒果综艺
+#EXTINF:-1 tvg-id="芒果综艺4K" tvg-name="芒果综艺4K" tvg-logo="https://live.fanmingming.com/tv/hunan.png" group-title="数字",芒果综艺
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="数字",超级综艺
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225620/2/index.m3u8
