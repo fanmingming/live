@@ -43,9 +43,9 @@ http://[2409:8087:1020:301:2026::18]:80/wh7f454c46tw4202898867_317667261/gslbser
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028019/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-logo="https://live.fanmingming.com/tv/CGTNDoc.png" group-title="央视",CGTN纪实
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028012/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="CNC英文" tvg-name="CNC英文" tvg-logo="https://live.fanmingming.com/tv/CNC英文.png" group-title="数字",CNC英文
+#EXTINF:-1 tvg-id="CNC英文" tvg-name="CNC英文" tvg-logo="https://live.fanmingming.com/tv/CNC.png" group-title="数字",CNC英文
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225693/2/index.m3u8
-#EXTINF:-1 tvg-id="CNC中文" tvg-name="CNC中文" tvg-logo="https://live.fanmingming.com/tv/CNC中文.png" group-title="数字",CNC中文
+#EXTINF:-1 tvg-id="CNC中文" tvg-name="CNC中文" tvg-logo="https://live.fanmingming.com/tv/CNC.png" group-title="数字",CNC中文
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225694/2/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png" group-title="国际",凤凰中文
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
@@ -85,6 +85,8 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/CCTV_DSZN.png" group-title="数字",电视指南
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/neimeng.png" group-title="卫视",内蒙古卫视
+http://hls.yun.gehua.net.cn:8088/live/NeiMengGu_2000.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/beijing.png" group-title="卫视",北京卫视 
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225674/index.m3u8
 #EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="https://live.fanmingming.com/tv/beijing.png" group-title="卫视",北京新闻
