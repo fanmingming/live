@@ -92,7 +92,7 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 #EXTINF:-1 tvg-id="123" tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/CCTV_DSZN.png" group-title="数字",电视指南
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 #EXTINF:-1 tvg-id="26" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/neimeng.png" group-title="卫视",内蒙古卫视
-http://hls.yun.gehua.net.cn:8088/live/NeiMengGu_2000.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/beijing.png" group-title="卫视",北京卫视 
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225674/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/hunan.png" group-title="卫视",湖南卫视 
