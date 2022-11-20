@@ -2,6 +2,7 @@
 
 - IPTV(ipv6)直播源 [https://live.fanmingming.com/tv/m3u/ipv6.m3u](https://live.fanmingming.com/tv/m3u/ipv6.m3u)
 - IPTV(ipv6)测试直播源 [https://live.fanmingming.com/tv/m3u/iptv-test.m3u](https://live.fanmingming.com/tv/m3u/iptv-test.m3u)
+- Global非正式直播源 [https://live.fanmingming.com/tv/m3u/global.m3u](https://live.fanmingming.com/tv/m3u/global.m3u)
 - Radio直播源 [https://live.fanmingming.com/radio/m3u/index.m3u](https://live.fanmingming.com/radio/m3u/index.m3u)
 
 ## 工具
