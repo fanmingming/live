@@ -280,24 +280,7 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226202/index.m3
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225712/index.m3u8
 #EXTINF:-1 tvg-id="1020" tvg-name="NEWTV欢乐剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV欢乐剧场.png" group-title="数字",欢乐剧场
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226210/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",百事通体育
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225850/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",百视通体育
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225834/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",百视通体育
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225835/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",百视通体育
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225836/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",百视通体育
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225839/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",百视通体育
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225845/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",百视通超级体育
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225848/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",百视通超级体育
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225849/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",百视通超级体育
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225847/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",陕西体育休闲
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226363/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",陕西公共
