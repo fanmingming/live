@@ -13,7 +13,7 @@
 - 所有直播源均收集于互联网，内容仅供测试。
 - 部分广播电台的节目播出具有一定的时效性，需要在指定时段进行收听。
 - 不项目不能保证所有直播源节目的有效性，直播内容可能会受直播源提供服务商因素影响而失效。
-- 本项目所有文件和内容均托管在[Github](https://github.com/fanmingming/live.github.io)，且由本项目发起人公益维护，欢迎Star本项目或点击Issues反馈。
+- 本项目所有文件和内容均托管在[Github](https://github.com/fanmingming/live.github.io)，且由本项目发起人公益维护，欢迎Star本项目或点击Issues反馈遇到的问题。
 
 ## 更新记录
 - 2022.11.20
