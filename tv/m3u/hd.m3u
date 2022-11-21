@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="BTV纪实科教-8KSDR源" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="8K频道",BTV纪实科教-8KSDR源
+http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
+#EXTINF:-1 tvg-name="苏州4K" tvg-logo="http://jp.muyiyun.top:516/Picon/suzhou4k.png" group-title="4K频道",苏州4K
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 tvg-name="抖音4K世界杯SDR源" tvg-logo="https://img.sj33.cn/uploads/202106/7-2106211G121315.jpg" group-title="4K频道",抖音4K世界杯SDR源
+https://pull-flv-spe-l26.douyinliving.com/fantasy/stream-400220578747515574_spuhd.flv?_neptune_token=MIGnBAzc_bPKc0LQKxaKnxQEgYTRyhOvmPI8g3BvC11hvx92niNKhnV0iG7CJHMGGQlpeq0BLWzLqEdW3BpXx3KIcmbqn-vx1b3LfnqH-SdgKmwVWMcDfElieRqxsCjtfSNzpOP1m_n81KUXgsZFLjc7tLI_rT_E0TCDm9SYMb-XA_jUvsRxiby5uVg1NW1DCrxfF8kI56YEEAIdiLRRKQH0Qppqyd-qTYw&expire=637b993b&sign=34c398fe4a97ad685d5406669e9fe7d9&abr_pts=-1800
+#EXTINF:-1 tvg-name="纯享4K" tvg-logo="http://jp.muyiyun.top:516/Picon/cx4k.png" group-title="4K频道",纯享4K
+http://111.20.105.192:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
+#EXTINF:-1 group-title="4K频道",欢笑剧场4K
+http://111.20.105.192:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="CCTV16-4K-SDR源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K频道",CCTV16-4K-SDR源
+http://111.20.105.192:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="CCTV16-1080P-HLG源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K频道",CCTV16-1080P-HLG源
+http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
+#EXTINF:-1 tvg-name="4K-TEST" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/telegram/tg.jpg" group-title="4K频道",4K-TEST
+https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/telegram/introduce.m3u8
+#EXTINF:-1 group-title="4K频道",4K影视1
+http://111.20.105.192:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+#EXTINF:-1 group-title="4K频道",4K影视2
+http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
+#EXTINF:-1 tvg-name="咪咕体育-4K-HLG源" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="4K频道",咪咕体育-4K-HLG源
+http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
+#EXTINF:-1 tvg-name="咪咕4K-HLG源-备用" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="4K频道",咪咕体育-4K-HLG源-2
+http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
+#EXTINF:-1 group-title="4K频道",Fashion4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="4K频道",Clarity4K
+https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="4K频道",爱自然
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-name="MUZZIK ZZ4000 4K" tvg-logo="http://jp.muyiyun.top:516/Picon/muzzikzz4000.png" group-title="4K频道",MUZZIK ZZ4000 4K
+http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
+#EXTINF:-1 tvg-name="loupe 4K" tvg-logo="http://jp.muyiyun.top:516/Picon/loupe.png" group-title="4K频道",loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:-1 tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="4K频道", Bloomberg TV+ 4K
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="斗鱼4K" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="4K频道",斗鱼4K
+http://epg.112114.xyz/douyu/9249162
+#EXTINF:-1 group-title="体育频道",CCTV5-高清(1)
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+#EXTINF:-1 group-title="体育频道",CCTV5-高清(2)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+#EXTINF:-1 group-title="体育频道",CCTV5-高清(3)
+http://159.75.85.63:828/shijiebei/sjb.php?id=3007a
+#EXTINF:-1 group-title="体育频道",CCTV5-高清(4)
+http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
+#EXTINF:-1 group-title="体育频道",CCTV5-高清(5)
+http://111.29.9.42:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
+#EXTINF:-1 group-title="体育频道",五星体育(1)
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 group-title="体育频道",五星体育(2)
+http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 group-title="体育频道",五星体育(3)
+http://111.29.9.48:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="体育频道",广东体育
+http://120.84.96.73:808/hls/22/index.m3u8
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="体育频道",广东体育（备）
+http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="体育频道",广东体育(备1)
+http://119.131.240.116:9090/hls/5/index.m3u8
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="体育频道",广东体育(备2)
+http://120.84.96.26:808/hls/22/index.m3u8
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="体育频道",广东体育(备3)
+http://120.84.96.33:808/hls/22/index.m3u8
+#EXTINF:-1 group-title="体育频道",南国都市
+http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
+#EXTINF:-1 group-title="体育频道",南国都市(备)
+https://justsometime.gztv.com/sec/shenghuos.m3u8
+#EXTINF:-1 tvg-id="江苏8K测试" tvg-name="江苏8K测试" group-title="8K频道",江苏8K测试
+http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K频道",CCTV4K 16M2160
+http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K频道",CCTV16-4K 18M2160
+http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K频道",CCTV16-4K 25M2160
+http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K频道",CCTV16-4K 34M2160HLG
+http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="4K频道",SiTV欢笑剧场 12M2160
+http://ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8
+#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="4K频道",纯享4K 25M2160HDR
+http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
+#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="4K频道",纯享4K 16M2160
+http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
+#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="4K频道",纯享4K 30M2160HLG
+http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K修复.png" group-title="4K频道",4K修复 7M2160HEVC
+http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
