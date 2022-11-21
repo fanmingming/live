@@ -1,6 +1,6 @@
 # 一个国内可直连的直播源分享项目
 - IPTV(ipv6)直播源 [https://live.fanmingming.com/tv/m3u/ipv6.m3u](https://live.fanmingming.com/tv/m3u/ipv6.m3u)
-- 4K/8K高清源(test) [https://live.fanmingming.com/tv/m3u/hd.m3u](https://live.fanmingming.com/tv/m3u/hd.m3u)
+- ⚽4K/8K高清源⚽ [https://live.fanmingming.com/tv/m3u/hd.m3u](https://live.fanmingming.com/tv/m3u/hd.m3u)
 - IPTV(ipv6)测试直播源 [https://live.fanmingming.com/tv/m3u/iptv-test.m3u](https://live.fanmingming.com/tv/m3u/iptv-test.m3u)
 - Global非正式直播源 [https://live.fanmingming.com/tv/m3u/global.m3u](https://live.fanmingming.com/tv/m3u/global.m3u)
 - Radio直播源 [https://live.fanmingming.com/radio/m3u/index.m3u](https://live.fanmingming.com/radio/m3u/index.m3u)
