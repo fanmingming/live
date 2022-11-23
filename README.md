@@ -1,8 +1,8 @@
 <h1 align="center"> ✯ 一个国内可直连的直播源分享项目 ✯ </h1>
 
-<h2 align="center">🔕 除测试源以外，所有直播源不定期维护更新。 🔕</h2>
+<h3 align="center">🔕 除测试源以外，所有直播源不定期维护更新。 🔕</h3>
 
-<h2>🤹‍♂️ 选择下方链接开始 :</h2>
+<h2>🤹‍♂️ 直播源地址 :</h2>
 
 - IPTV(ipv6)直播源 [https://live.fanmingming.com/tv/m3u/ipv6.m3u](https://live.fanmingming.com/tv/m3u/ipv6.m3u)
 - ⚽4K/8K高清源⚽ [https://live.fanmingming.com/tv/m3u/hd.m3u](https://live.fanmingming.com/tv/m3u/hd.m3u)
