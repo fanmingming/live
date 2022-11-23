@@ -28,4 +28,4 @@
 - 2022.11.23
 
 ---
-> [@Blog](https://www.fanmingming.com/) · [@GitHub](https://github.com/fanmingming) · [@Telegram](https://t.me/fanmingming)
+> [@GitHub](https://github.com/fanmingming) · [@Telegram](https://t.me/fanmingming)
