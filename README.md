@@ -1,7 +1,6 @@
 <h1 align="center"> ✯ 一个国内可直连的直播源分享项目 ✯ </h1>
 
-<h3 align="center">🔕 国内直连 支持IPV4/IPV6双栈访问 除测试源以外，所有直播源不定期维护更新。 🔕</h3>
-<br>
+<h3 align="center">🔕 永久免费 无需翻墙访问 完善的台标 支持IPV4/IPV6双栈访问 🔕</h3>
 
 ## 🤹‍♂️直播源地址:
 - IPTV(ipv6)直播源 [https://live.fanmingming.com/tv/m3u/ipv6.m3u](https://live.fanmingming.com/tv/m3u/ipv6.m3u)
@@ -10,7 +9,7 @@
 - Global非正式直播源 [https://live.fanmingming.com/tv/m3u/global.m3u](https://live.fanmingming.com/tv/m3u/global.m3u)
 - 📻Radio直播源 [https://live.fanmingming.com/radio/m3u/index.m3u](https://live.fanmingming.com/radio/m3u/index.m3u)
 ## 🛠️工具
-> 为方便管理和维护已有的直播源内容，添加了一个直播源检测工具。
+> 为了方便管理和维护已有的直播源内容，添加了一个直播源检测工具。
 - [IPTV Checker 2.5 Simplified Chinese.exe](https://live.fanmingming.com/tools/IPTV-Checker-2.5-Simplified-Chinese.exe)
 
 > 添加了一个m3u8在线播放器，请参考下方Demo链接来使用。
