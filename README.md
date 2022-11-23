@@ -1,6 +1,6 @@
 <h1 align="center"> ✯ 一个国内可直连的直播源分享项目 ✯ </h1>
 
-<h3 align="center">🔕 除测试源以外，所有直播源不定期维护更新。 🔕</h3>
+<h3 align="center">🔕 国内直连 支持IPV4/IPV6双栈访问 除测试源以外，所有直播源不定期维护更新。 🔕</h3>
 
 ## 🤹‍♂️直播源地址:
 - IPTV(ipv6)直播源 [https://live.fanmingming.com/tv/m3u/ipv6.m3u](https://live.fanmingming.com/tv/m3u/ipv6.m3u)
