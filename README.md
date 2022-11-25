@@ -16,7 +16,7 @@
 
 > 添加了一个m3u8在线播放器，请参考下方Demo链接来使用。
 
-- Player Demo🔗 [https://live.fanmingming.com/player/?vurl=http://ngcdn001.cnr.cn/live/zgzs/index.m3u8](https://live.fanmingming.com/player/?vurl=http://ngcdn001.cnr.cn/live/zgzs/index.m3u8)
+- Player Demo🔗 [https://live.fanmingming.com/player/?vurl=https://livedoc.cgtn.com/500d/prog_index.m3u8](https://live.fanmingming.com/player/?vurl=https://livedoc.cgtn.com/500d/prog_index.m3u8)
 
 ## 📖说明
 - 所有直播源均收集于互联网，内容仅供测试。
