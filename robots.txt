@@ -1,2 +1,4 @@
 User-agent: *
-Disallow: /
+Disallow: /tools/
+Disallow: /radio/
+Disallow: /tv/
