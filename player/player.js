@@ -1,16 +1,10 @@
   var video = document.getElementById('video');
   var vurl = location.search.split('vurl=')[1];
-
-
   var videoSrc = vurl;
-  //
-  // First check for native browser HLS support
-  //
+  // 检查浏览器是否支持HLS
   if (video.canPlayType('application/vnd.apple.mpegurl')) {
     video.src = videoSrc;
-    //
-    // If no native HLS support, check if HLS.js is supported
-    //
+    // 如不支持则调用HLS.js
   } else if (Hls.isSupported()) {
     var hls = new Hls();
     hls.loadSource(videoSrc);
