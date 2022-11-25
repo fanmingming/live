@@ -3,10 +3,9 @@
 <h3 align="center">🔕 永久免费 无需翻墙访问 完善的台标 支持IPV4/IPV6双栈访问 🔕</h3>
 
 ## 🤹‍♂️直播源地址:
-- IPTV(ipv6)直播源 [https://live.fanmingming.com/tv/m3u/ipv6.m3u](https://live.fanmingming.com/tv/m3u/ipv6.m3u)
+- 📺IPTV(IPV6专用)直播源 [https://live.fanmingming.com/tv/m3u/ipv6.m3u](https://live.fanmingming.com/tv/m3u/ipv6.m3u)
 - ⚽4K/8K高清源⚽ [https://live.fanmingming.com/tv/m3u/hd.m3u](https://live.fanmingming.com/tv/m3u/hd.m3u)
-- IPTV(ipv6)测试源 [https://live.fanmingming.com/tv/m3u/iptv-test.m3u](https://live.fanmingming.com/tv/m3u/iptv-test.m3u)
-- Global非正式直播源 [https://live.fanmingming.com/tv/m3u/global.m3u](https://live.fanmingming.com/tv/m3u/global.m3u)
+- 🌏Global非正式直播源 [https://live.fanmingming.com/tv/m3u/global.m3u](https://live.fanmingming.com/tv/m3u/global.m3u)
 - 📻Radio直播源 [https://live.fanmingming.com/radio/m3u/index.m3u](https://live.fanmingming.com/radio/m3u/index.m3u)
 
 ## 🛠️工具
