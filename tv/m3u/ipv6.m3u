@@ -53,12 +53,6 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="104" tvg-name="AlJazeeraEnglish" tvg-logo="https://live.fanmingming.com/tv/aljazeera.png" group-title="国际",半岛新闻
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="105" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4k.png" group-title="央视",CCTV-4K  
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4EUO" tvg-logo="https://live.fanmingming.com/tv/CCTV4EUO.png" group-title="央视",中文欧洲
-http://[2409:8087:1020:301:2026::2b]:80/wh7f454c46tw4202609999_-893197627/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225969/10000100000000060000000000890997_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="107" tvg-name="CCTV4AME" tvg-logo="https://live.fanmingming.com/tv/CCTV4AME.png" group-title="央视",中文美洲
-http://[2409:8087:1020:301:2026::18]:80/wh7f454c46tw4202898867_317667261/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225970/10000100000000060000000000890996_0.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="108" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",体育赛事
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225706/index.m3u8
 #EXTINF:-1 tvg-id="109" tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/中国教育1台.png" group-title="央视",中国教育
@@ -111,8 +105,6 @@ http://live.cooltv.top/tv/btime.php?id=btvsh
 http://live.cooltv.top/tv/btime.php?id=btvqn
 #EXTINF:-1 tvg-id="1874" tvg-name="BTV纪实科教" tvg-logo="https://live.fanmingming.com/tv/beijing.png" group-title="卫视",纪实科教
 http://live.cooltv.top/tv/btime.php?id=btvkj
-#EXTINF:-1 tvg-id="1872" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/beijing.png" group-title="数字",体育休闲
-http://live.cooltv.top/tv/btime.php?id=bjjs
 #EXTINF:-1 tvg-id="29" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/dongfang.png" group-title="卫视",东方卫视 
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225659/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/sichuan.png" group-title="卫视",四川卫视
@@ -165,8 +157,6 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/ind
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 tvg-id="54" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/xinjiang.png" group-title="卫视",新疆卫视
 http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658
-#EXTINF:-1 tvg-id="55" tvg-logo="http://ikanpic.kanketv.com/image/live/icon/bingtuan.png" group-title="卫视",兵团卫视
-http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/yunnan.png" group-title="卫视",云南卫视
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227181/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 tvg-id="57" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/qinghai.png" group-title="卫视",青海卫视
