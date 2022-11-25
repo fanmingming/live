@@ -1,26 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="BTV纪实科教-8KSDR源" tvg-logo="https://live.fanmingming.com/tv/beijingjishi.png" group-title="8K频道",BTV纪实科教-8KSDR源
 http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
-#EXTINF:-1 group-title="体育频道",CCTV5-高清(1)
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="体育频道",CCTV5-高清(1)
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-#EXTINF:-1 group-title="体育频道",CCTV5-高清(2)
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="体育频道",CCTV5-高清(2)
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-#EXTINF:-1 group-title="体育频道",CCTV5-高清(3)
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="体育频道",CCTV5-高清(3)
 http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
-#EXTINF:-1 group-title="体育频道",CCTV5-高清(4)
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="体育频道",CCTV5-高清(4)
 http://111.29.9.42:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
 #EXTINF:-1 group-title="体育频道",五星体育(1)
 http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 group-title="体育频道",五星体育(2)
 http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 group-title="体育频道",五星体育(3)
-http://111.29.9.48:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="抖音4K世界杯SDR源" tvg-logo="https://img.sj33.cn/uploads/202106/7-2106211G121315.jpg" group-title="4K频道",抖音4K世界杯SDR源
 https://pull-flv-spe-l26.douyincdn.com/fantasy/stream-112025745935827638_spuhd.flv?_neptune_token=MIGmBAxIcXUdRyxErzZaGtcEgYOMtvRFpwkHlLu-_IRNjCAOkPgVocFAUR7tdJmMVcysBcPEpBqn6MimasYfEcdZENr2o5P_UiT2lvkNJbXNtafcU4SCBRnJ14s2Y42eNHWLDVqD3_lQjNcCONP6s3neVe-vlWCthBlJBmMQrHLmu3On357f_F9Abvs7oVHfnw1RMFG35wQQkr4pttXK6apk2HUsogFxnA&expire=6381e192&sign=62453f30bdf54081e5ffc08a2d44593a&abr_pts=-1800
-#EXTINF:-1 tvg-name="咪咕体育-4K-HLG源" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="4K频道",咪咕体育-4K-HLG源
-http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
-#EXTINF:-1 tvg-name="咪咕4K-HLG源-备用" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="4K频道",咪咕体育-4K-HLG源-2
-http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/GDTV3.png" group-title="体育频道",广东体育
 http://120.84.96.73:808/hls/22/index.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/GDTV3.png" group-title="体育频道",广东体育（备1）
@@ -31,19 +25,9 @@ http://120.84.96.26:808/hls/22/index.m3u8
 http://120.84.96.33:808/hls/22/index.m3u8
 #EXTINF:-1 tvg-name="苏州4K" tvg-logo="https://live.fanmingming.com/tv/suzhou4k.png" group-title="4K频道",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="4K频道",纯享4K
-http://111.20.105.192:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
-#EXTINF:-1 group-title="4K频道",欢笑剧场4K
-http://111.20.105.192:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="CCTV16-4K-SDR源" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="4K频道",CCTV16-4K-SDR源
-http://111.20.105.192:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="CCTV16-1080P-HLG源" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="4K频道",CCTV16-1080P-HLG源
-http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 #EXTINF:-1 tvg-name="4K-TEST" tvg-logo="" group-title="4K频道",4K-TEST
 https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/telegram/introduce.m3u8
-#EXTINF:-1 group-title="4K频道",4K影视1
-http://111.20.105.192:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-#EXTINF:-1 group-title="4K频道",4K影视2
+#EXTINF:-1 group-title="4K频道",4K影视
 http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 #EXTINF:-1 group-title="4K频道",Fashion4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
