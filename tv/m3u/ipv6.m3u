@@ -33,6 +33,8 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225641/index.m3
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226230/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV-17
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225909/index.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4k.png" group-title="央视",CCTV-4K  
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
 #EXTINF:-1 tvg-id="" tvg-name="CGTN中文" tvg-logo="https://live.fanmingming.com/tv/cgtn.png" group-title="央视",CGTN中文
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028019/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN纪实" tvg-logo="https://live.fanmingming.com/tv/CGTNDoc.png" group-title="央视",CGTN纪实
@@ -195,7 +197,7 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227071/index.m3u
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225891/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 tvg-id="" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="数字",黑莓动画
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225878/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 tvg-id="" tvg-name="浙江国际" tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/12/72d035c03412d7cb2d319c6607fef8e9.png" group-title="卫视",浙江国际
+#EXTINF:-1 tvg-id="" tvg-name="浙江国际" tvg-logo="https://live.fanmingming.com/tv/zhejiang.png" group-title="卫视",浙江国际
 http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/jiangxi.png" group-title="卫视", 江西少儿
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226194/index.m3u8?fmt=ts2hls
@@ -615,21 +617,21 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225848/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225849/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="百视通超级体育" tvg-logo="" group-title="地方备用",百视通超级体育
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225847/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="陕西体育休闲" tvg-logo="" group-title="地方备用",陕西体育休闲
+#EXTINF:-1 tvg-id="" tvg-name="陕西体育休闲" tvg-logo="https://live.fanmingming.com/tv/shanxi.png" group-title="地方备用",陕西体育休闲
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226363/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="陕西公共" tvg-logo="" group-title="地方备用",陕西公共
+#EXTINF:-1 tvg-id="" tvg-name="陕西公共" tvg-logo="https://live.fanmingming.com/tv/shanxi.png" group-title="地方备用",陕西公共
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226361/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="陕西影视" tvg-logo="" group-title="地方备用",陕西影视
+#EXTINF:-1 tvg-id="" tvg-name="陕西影视" tvg-logo="https://live.fanmingming.com/tv/shanxi.png" group-title="地方备用",陕西影视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226360/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="陕西新闻资讯" tvg-logo="" group-title="地方备用",陕西新闻资讯
+#EXTINF:-1 tvg-id="" tvg-name="陕西新闻资讯" tvg-logo="https://live.fanmingming.com/tv/shanxi.png" group-title="地方备用",陕西新闻资讯
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226357/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="陕西生活" tvg-logo="" group-title="地方备用",陕西生活
+#EXTINF:-1 tvg-id="" tvg-name="陕西生活" tvg-logo="https://live.fanmingming.com/tv/shanxi.png" group-title="地方备用",陕西生活
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226358/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="陕西生活" tvg-logo="" group-title="地方备用",陕西生活
+#EXTINF:-1 tvg-id="" tvg-name="陕西生活" tvg-logo="https://live.fanmingming.com/tv/shanxi.png" group-title="地方备用",陕西生活
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226359/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="陕西西部电影" tvg-logo="" group-title="地方备用",陕西西部电影
+#EXTINF:-1 tvg-id="" tvg-name="陕西西部电影" tvg-logo="https://live.fanmingming.com/tv/shanxi.png" group-title="地方备用",陕西西部电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226364/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="陕视直播" tvg-logo="" group-title="地方备用",陕视直播
+#EXTINF:-1 tvg-id="" tvg-name="陕视直播" tvg-logo="https://live.fanmingming.com/tv/shanxi.png" group-title="地方备用",陕视直播
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226408/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="西安1" tvg-logo="" group-title="地方备用",西安1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226366/index.m3u8
