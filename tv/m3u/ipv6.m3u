@@ -47,11 +47,11 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225694/2/index.
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png" group-title="国际",凤凰资讯
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC1.jpg" group-title="数字",动作电影 
+#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC1.jpg" group-title="数字",CHC动作电影 
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC2.jpg" group-title="数字",家庭影院
+#EXTINF:-1 tvg-id="" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC2.jpg" group-title="数字",CHC家庭影院
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC3.jpg" group-title="数字",高清电影
+#EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC3.jpg" group-title="数字",CHC高清电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="https://live.fanmingming.com/tv/aljazeera.png" group-title="国际",半岛新闻
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -171,11 +171,11 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225595/index.m3
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225781/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/KUAILECHUIDIAO.jpg" group-title="数字",快乐垂钓
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002264/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="6555" tvg-name="梨园" tvg-logo="https://live.fanmingming.com/tv/CCTVPAYFEE20.jpg" group-title="卫视",梨园频道
+#EXTINF:-1 tvg-id="6555" tvg-name="梨园频道" tvg-logo="https://live.fanmingming.com/tv/CCTVPAYFEE20.jpg" group-title="卫视",梨园频道
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225581/2/index.m3u8
 #EXTINF:-1 tvg-id="6586" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/WUSHUSHIJIE.jpg" group-title="卫视",武术世界
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225508/2/index.m3u8
-#EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="https://live.fanmingming.com/tv/SHUOWENJIEZI.jpg" group-title="卫视",国学频道
+#EXTINF:-1 tvg-id="6590" tvg-name="国学频道" tvg-logo="https://live.fanmingming.com/tv/SHUOWENJIEZI.jpg" group-title="卫视",国学频道
 http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226629/index.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="https://live.fanmingming.com/tv/shanghaijishi.png" group-title="数字",纪实人文
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225655/index.m3u8
