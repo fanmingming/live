@@ -13,8 +13,6 @@ http://111.29.9.42:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&live
 http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 group-title="体育频道",五星体育(2)
 http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 tvg-name="抖音4K世界杯SDR源" tvg-logo="https://img.sj33.cn/uploads/202106/7-2106211G121315.jpg" group-title="4K频道",抖音4K世界杯SDR源
-https://pull-flv-spe-l26.douyincdn.com/fantasy/stream-112025745935827638_spuhd.flv?_neptune_token=MIGmBAxIcXUdRyxErzZaGtcEgYOMtvRFpwkHlLu-_IRNjCAOkPgVocFAUR7tdJmMVcysBcPEpBqn6MimasYfEcdZENr2o5P_UiT2lvkNJbXNtafcU4SCBRnJ14s2Y42eNHWLDVqD3_lQjNcCONP6s3neVe-vlWCthBlJBmMQrHLmu3On357f_F9Abvs7oVHfnw1RMFG35wQQkr4pttXK6apk2HUsogFxnA&expire=6381e192&sign=62453f30bdf54081e5ffc08a2d44593a&abr_pts=-1800
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/GDTV3.png" group-title="体育频道",广东体育
 http://120.84.96.73:808/hls/22/index.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/GDTV3.png" group-title="体育频道",广东体育（备1）
