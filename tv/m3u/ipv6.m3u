@@ -199,8 +199,22 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227071/index.m3u
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225891/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 tvg-id="" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="数字",黑莓动画
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225878/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 tvg-id="" tvg-name="浙江新闻" tvg-logo="https://live.fanmingming.com/tv/zhejiang.png" group-title="卫视",浙江新闻
+http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江国际" tvg-logo="https://live.fanmingming.com/tv/zhejiang.png" group-title="卫视",浙江国际
 http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/zhejiang.png" group-title="卫视",浙江少儿
+http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="浙江教科影视" tvg-logo="https://live.fanmingming.com/tv/zhejiang.png" group-title="卫视",浙江教科影视
+http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="浙江数码时代" tvg-logo="https://live.fanmingming.com/tv/zhejiang.png" group-title="卫视",浙江数码时代
+http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="浙江民生休闲" tvg-logo="https://live.fanmingming.com/tv/zhejiang.png" group-title="卫视",浙江民生休闲
+http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="浙江经济生活" tvg-logo="https://live.fanmingming.com/tv/zhejiang.png" group-title="卫视",浙江经济生活
+http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="浙江钱江频道" tvg-logo="https://live.fanmingming.com/tv/zhejiang.png" group-title="卫视",浙江钱江频道
+http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/jiangxi.png" group-title="卫视", 江西少儿
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226194/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="福建少儿" tvg-logo="https://live.fanmingming.com/tv/dongnan.png" group-title="卫视",福建少儿
@@ -805,5 +819,5 @@ http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227075/index.m3u8
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226676/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="福建移动IPV6",哒啵电竞 高清
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227252/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="福建移动IPV6",4KUHD 4K超高清
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/4K.png" group-title="福建移动IPV6",4KUHD 4K超高清
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
