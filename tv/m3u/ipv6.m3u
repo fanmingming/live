@@ -47,6 +47,8 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225694/2/index.
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港",凤凰香港
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
 #EXTINF:-1 tvg-id="412" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/hks.png" group-title="卫视",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="其他",CHC动作电影
@@ -97,20 +99,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225674/index.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225704/index.m3u8
-#EXTINF:-1 tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://live.fanmingming.com/tv/北京新闻.png" group-title="北京",北京新闻
-http://live.cooltv.top/tv/btime.php?id=btvxw
-#EXTINF:-1 tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://live.fanmingming.com/tv/北京影视.png" group-title="北京",北京影视
-http://live.cooltv.top/tv/btime.php?id=btvys
-#EXTINF:-1 tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://live.fanmingming.com/tv/北京文艺.png" group-title="北京",北京文艺
-http://live.cooltv.top/tv/btime.php?id=btvwy
-#EXTINF:-1 tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://live.fanmingming.com/tv/北京财经.png" group-title="北京",北京财经
-http://live.cooltv.top/tv/btime.php?id=btvcj
-#EXTINF:-1 tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://live.fanmingming.com/tv/北京生活.png" group-title="北京",北京生活
-http://live.cooltv.top/tv/btime.php?id=btvsh
-#EXTINF:-1 tvg-id="北京青年" tvg-name="北京青年" tvg-logo="https://live.fanmingming.com/tv/北京青年.png" group-title="北京",北京青年
-http://live.cooltv.top/tv/btime.php?id=btvqn
-#EXTINF:-1 tvg-id="冬奥纪实" tvg-name="冬奥纪实" tvg-logo="https://live.fanmingming.com/tv/冬奥纪实.png" group-title="北京",冬奥纪实
-http://live.cooltv.top/tv/btime.php?id=btvkj
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225659/index.m3u8
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视",四川卫视
@@ -201,6 +189,20 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227071/index.m3u
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225891/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="其他",黑莓动画
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225878/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://live.fanmingming.com/tv/北京新闻.png" group-title="北京",北京新闻
+http://live.cooltv.top/tv/btime.php?id=btvxw
+#EXTINF:-1 tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://live.fanmingming.com/tv/北京影视.png" group-title="北京",北京影视
+http://live.cooltv.top/tv/btime.php?id=btvys
+#EXTINF:-1 tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://live.fanmingming.com/tv/北京文艺.png" group-title="北京",北京文艺
+http://live.cooltv.top/tv/btime.php?id=btvwy
+#EXTINF:-1 tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://live.fanmingming.com/tv/北京财经.png" group-title="北京",北京财经
+http://live.cooltv.top/tv/btime.php?id=btvcj
+#EXTINF:-1 tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://live.fanmingming.com/tv/北京生活.png" group-title="北京",北京生活
+http://live.cooltv.top/tv/btime.php?id=btvsh
+#EXTINF:-1 tvg-id="北京青年" tvg-name="北京青年" tvg-logo="https://live.fanmingming.com/tv/北京青年.png" group-title="北京",北京青年
+http://live.cooltv.top/tv/btime.php?id=btvqn
+#EXTINF:-1 tvg-id="冬奥纪实" tvg-name="冬奥纪实" tvg-logo="https://live.fanmingming.com/tv/冬奥纪实.png" group-title="北京",冬奥纪实
+http://live.cooltv.top/tv/btime.php?id=btvkj
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="浙江",浙江新闻
 http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://live.fanmingming.com/tv/浙江国际.png" group-title="浙江",浙江国际
