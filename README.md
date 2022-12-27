@@ -4,8 +4,7 @@
 
 ## 🤹‍♂️直播源地址:
 - 📺IPTV(IPV6专用)直播源 [https://live.fanmingming.com/tv/m3u/ipv6.m3u](https://live.fanmingming.com/tv/m3u/ipv6.m3u)
-- ⚽4K/8K高清源⚽ [https://live.fanmingming.com/tv/m3u/hd.m3u](https://live.fanmingming.com/tv/m3u/hd.m3u)
-- 🌏Global非正式直播源 [https://live.fanmingming.com/tv/m3u/global.m3u](https://live.fanmingming.com/tv/m3u/global.m3u)
+- 🌏Global直播源 [https://live.fanmingming.com/tv/m3u/global.m3u](https://live.fanmingming.com/tv/m3u/global.m3u)
 - 📻Radio直播源 [https://live.fanmingming.com/radio/m3u/index.m3u](https://live.fanmingming.com/radio/m3u/index.m3u)
 
 ## 🛠️工具
@@ -25,4 +24,4 @@
 - 所有文件和内容均托管在[GitHub](https://github.com/fanmingming/live)，由项目发起人公益维护，欢迎Star本项目或点击[Issues](https://github.com/fanmingming/live/issues)反馈遇到的问题。
 
 ## 📔最后更新
-- 2022.12.19
+- 2022.12.27
