@@ -67,6 +67,8 @@ https://stream.hndt.com/live/sijiache/playlist.m3u8
 https://stream.hndt.com/live/jiaoyu/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/files/images/2017/06/23/1498188190569249.png" group-title="综合广播" radio="true",河南信息广播
 https://stream.hndt.com/live/leling/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/11/17/login.jpg" group-title="综合广播" radio="true",Big Radio
+https://stream.hndt.com/live/gudian/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20200306/1583464064428.jpg" group-title="综合广播" radio="true",CRI环球资讯广播
 http://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/华语环球广播.png" group-title="综合广播" radio="true",CRI华语环球广播
