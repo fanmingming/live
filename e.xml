@@ -25792,10 +25792,10 @@
 		<title lang="zh">纪录中国</title>
 	</programme>
 	<programme channel="CETV2" start="20260805013500 +0800" stop="20260805020500 +0800">
-		<title lang="zh">发现·中国</title>
+		<title lang="zh">发现中国</title>
 	</programme>
 	<programme channel="CETV2" start="20260805020500 +0800" stop="20260805024000 +0800">
-		<title lang="zh">发现·中国</title>
+		<title lang="zh">发现中国</title>
 	</programme>
 	<programme channel="CETV2" start="20260805024000 +0800" stop="20260805030500 +0800">
 		<title lang="zh">艺术素养公开课</title>
@@ -25803,7 +25803,10 @@
 	<programme channel="CETV2" start="20260805030500 +0800" stop="20260805033000 +0800">
 		<title lang="zh">课本里的非遗</title>
 	</programme>
-	<programme channel="CETV2" start="20260805033000 +0800" stop="20260805041000 +0800">
+	<programme channel="CETV2" start="20260805033000 +0800" stop="20260805040000 +0800">
+		<title lang="zh">村寨美丽中国</title>
+	</programme>
+	<programme channel="CETV2" start="20260805040000 +0800" stop="20260805041000 +0800">
 		<title lang="zh">村寨美丽中国</title>
 	</programme>
 	<programme channel="CETV2" start="20260805041000 +0800" stop="20260805044000 +0800">
@@ -25816,7 +25819,7 @@
 		<title lang="zh">一堂好课</title>
 	</programme>
 	<programme channel="CETV2" start="20260805060100 +0800" stop="20260805063500 +0800">
-		<title lang="zh">发现·中国</title>
+		<title lang="zh">发现中国</title>
 	</programme>
 	<programme channel="CETV2" start="20260805063500 +0800" stop="20260805065500 +0800">
 		<title lang="zh">课本中的古诗文</title>
@@ -25928,9 +25931,6 @@
 	</programme>
 	<programme channel="CETV2" start="20260805233000 +0800" stop="20260805235900 +0800">
 		<title lang="zh">一堂好课Ⅱ</title>
-	</programme>
-	<programme channel="CETV2" start="20260805235900 +0800" stop="20260806000000 +0800">
-		<title lang="zh">节目结束</title>
 	</programme>
 	<channel id="CGTN法语">
 		<display-name lang="zh">CGTN法语</display-name>
