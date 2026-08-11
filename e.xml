@@ -25436,7 +25436,7 @@
 		<title lang="zh">导视</title>
 	</programme>
 	<programme channel="CETV1" start="20260811023300 +0800" stop="20260811023800 +0800">
-		<title lang="zh">国宝时刻(47)夏景山口待渡图</title>
+		<title lang="zh">国宝时刻(47):夏景山口待渡图</title>
 	</programme>
 	<programme channel="CETV1" start="20260811023800 +0800" stop="20260811024500 +0800">
 		<title lang="zh">导视</title>
@@ -25457,7 +25457,7 @@
 		<title lang="zh">导视</title>
 	</programme>
 	<programme channel="CETV1" start="20260811045400 +0800" stop="20260811050000 +0800">
-		<title lang="zh">国宝时刻(3)蛋壳黑陶高柄杯</title>
+		<title lang="zh">国宝时刻(3):蛋壳黑陶高柄杯</title>
 	</programme>
 	<programme channel="CETV1" start="20260811050000 +0800" stop="20260811052000 +0800">
 		<title lang="zh">长安书院(1)</title>
@@ -25472,7 +25472,7 @@
 		<title lang="zh">导视</title>
 	</programme>
 	<programme channel="CETV1" start="20260811060300 +0800" stop="20260811060800 +0800">
-		<title lang="zh">国宝时刻(7)兽面纹铜牌饰</title>
+		<title lang="zh">国宝时刻(7):兽面纹铜牌饰</title>
 	</programme>
 	<programme channel="CETV1" start="20260811060800 +0800" stop="20260811065800 +0800">
 		<title lang="zh">地道战(20)</title>
@@ -25571,7 +25571,7 @@
 		<title lang="zh">导视</title>
 	</programme>
 	<programme channel="CETV1" start="20260811193800 +0800" stop="20260811194300 +0800">
-		<title lang="zh">国宝时刻(9)七孔骨笛</title>
+		<title lang="zh">国宝时刻(9):七孔骨笛</title>
 	</programme>
 	<programme channel="CETV1" start="20260811194300 +0800" stop="20260811194500 +0800">
 		<title lang="zh">导视</title>
@@ -25586,13 +25586,13 @@
 		<title lang="zh">导视</title>
 	</programme>
 	<programme channel="CETV1" start="20260811204500 +0800" stop="20260811211500 +0800">
-		<title lang="zh">冠军说从赛场到职场3(5)</title>
+		<title lang="zh">冠军说-从赛场到职场Ⅲ(5)</title>
 	</programme>
 	<programme channel="CETV1" start="20260811211500 +0800" stop="20260811212000 +0800">
 		<title lang="zh">导视</title>
 	</programme>
 	<programme channel="CETV1" start="20260811212000 +0800" stop="20260811212700 +0800">
-		<title lang="zh">国宝时刻(15)T形帛画</title>
+		<title lang="zh">国宝时刻(15):T形帛画</title>
 	</programme>
 	<programme channel="CETV1" start="20260811212700 +0800" stop="20260811213000 +0800">
 		<title lang="zh">导视</title>
@@ -25615,7 +25615,7 @@
 	<programme channel="CETV1" start="20260811230000 +0800" stop="20260811233000 +0800">
 		<title lang="zh">美丽人生</title>
 	</programme>
-	<programme channel="CETV1" start="20260811233000 +0800" stop="20260811235900 +0800">
+	<programme channel="CETV1" start="20260811233000 +0800" stop="20260812000000 +0800">
 		<title lang="zh">等着我(63)</title>
 	</programme>
 	<channel id="CETV2">
@@ -28044,21 +28044,18 @@
 		<title lang="zh">中国通</title>
 		<desc lang="zh">欢迎使用</desc>
 	</programme>
-	<programme channel="CGTN法语" start="20260810233000 +0800" stop="20260811000000 +0800">
+	<programme channel="CGTN法语" start="20260810233000 +0800" stop="20260811001500 +0800">
 		<title lang="zh">纪录片</title>
 		<desc lang="zh">欢迎使用</desc>
 	</programme>
-	<programme channel="CGTN法语" start="20260811000000 +0800" stop="20260811001500 +0800">
-		<title lang="zh">精彩呈现</title>
-	</programme>
 	<programme channel="CGTN法语" start="20260811001500 +0800" stop="20260811010000 +0800">
-		<title lang="zh">日光之城（第9集）</title>
+		<title lang="zh">剧场</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260811010000 +0800" stop="20260811014500 +0800">
-		<title lang="zh">日光之城（第10集）</title>
+		<title lang="zh">剧场</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260811014500 +0800" stop="20260811020000 +0800">
-		<title lang="zh">熊猫与卢塔（第38集）</title>
+		<title lang="zh">动画城</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260811020000 +0800" stop="20260811023000 +0800">
 		<title lang="zh">中国大舞台</title>
@@ -28070,28 +28067,28 @@
 		<title lang="zh">中国全视角</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260811040000 +0800" stop="20260811043000 +0800">
-		<title lang="zh">美食大搜索(法)</title>
+		<title lang="zh">美食大搜索</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260811043000 +0800" stop="20260811051500 +0800">
-		<title lang="zh">日光之城（第11集）</title>
+		<title lang="zh">剧场</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260811051500 +0800" stop="20260811060000 +0800">
-		<title lang="zh">日光之城（第12集）</title>
+		<title lang="zh">剧场</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260811060000 +0800" stop="20260811064500 +0800">
-		<title lang="zh">魅力东方</title>
+		<title lang="zh">纪录片</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260811064500 +0800" stop="20260811071500 +0800">
 		<title lang="zh">光华世界观察</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260811071500 +0800" stop="20260811074500 +0800">
-		<title lang="zh">美食大搜索(法)</title>
+		<title lang="zh">美食大搜索</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260811074500 +0800" stop="20260811080000 +0800">
-		<title lang="zh">熊猫与卢塔（第39集）</title>
+		<title lang="zh">动画城</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260811080000 +0800" stop="20260811083000 +0800">
-		<title lang="zh">非洲面孔(法)</title>
+		<title lang="zh">非洲面孔</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260811083000 +0800" stop="20260811090000 +0800">
 		<title lang="zh">纪事东八区</title>
@@ -28103,80 +28100,76 @@
 		<title lang="zh">光华世界观察</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260811103000 +0800" stop="20260811111500 +0800">
-		<title lang="zh">日光之城（第11集）</title>
+		<title lang="zh">剧场</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260811111500 +0800" stop="20260811120000 +0800">
-		<title lang="zh">日光之城（第12集）</title>
+		<title lang="zh">剧场</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260811120000 +0800" stop="20260811130000 +0800">
 		<title lang="zh">中国全视角</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260811130000 +0800" stop="20260811133000 +0800">
-		<title lang="zh">综合新闻(法)</title>
+		<title lang="zh">综合新闻</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260811133000 +0800" stop="20260811141500 +0800">
-		<title lang="zh">魅力东方</title>
+		<title lang="zh">纪录片</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260811141500 +0800" stop="20260811143000 +0800">
-		<title lang="zh">熊猫与卢塔（第39集）</title>
+		<title lang="zh">动画城</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260811143000 +0800" stop="20260811150000 +0800">
-		<title lang="zh">非洲面孔(法)</title>
+		<title lang="zh">非洲面孔</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260811150000 +0800" stop="20260811153000 +0800">
-		<title lang="zh">综合新闻(法)</title>
+		<title lang="zh">综合新闻</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260811153000 +0800" stop="20260811160000 +0800">
 		<title lang="zh">纪事东八区</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260811160000 +0800" stop="20260811163000 +0800">
-		<title lang="zh">财经时间(法)</title>
+		<title lang="zh">财经时间</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260811163000 +0800" stop="20260811170000 +0800">
-		<title lang="zh">美食大搜索(法)</title>
+		<title lang="zh">美食大搜索</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260811170000 +0800" stop="20260811173000 +0800">
 		<title lang="zh">光华世界观察</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260811173000 +0800" stop="20260811181500 +0800">
-		<title lang="zh">日光之城（第11集）</title>
+		<title lang="zh">剧场</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260811181500 +0800" stop="20260811190000 +0800">
-		<title lang="zh">日光之城（第12集）</title>
+		<title lang="zh">剧场</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260811190000 +0800" stop="20260811193000 +0800">
-		<title lang="zh">综合新闻(法)</title>
+		<title lang="zh">综合新闻</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260811193000 +0800" stop="20260811200000 +0800">
 		<title lang="zh">纪事东八区</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260811200000 +0800" stop="20260811203000 +0800">
-		<title lang="zh">非洲新闻联播(法)</title>
+		<title lang="zh">非洲新闻联播</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260811203000 +0800" stop="20260811211500 +0800">
-		<title lang="zh">魅力东方</title>
+		<title lang="zh">纪录片</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260811211500 +0800" stop="20260811213000 +0800">
-		<title lang="zh">熊猫与卢塔（第39集）</title>
+		<title lang="zh">动画城</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260811213000 +0800" stop="20260811220000 +0800">
-		<title lang="zh">非洲面孔(法)</title>
+		<title lang="zh">非洲面孔</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260811220000 +0800" stop="20260811223000 +0800">
-		<title lang="zh">综合新闻(法)</title>
+		<title lang="zh">综合新闻</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260811223000 +0800" stop="20260811230000 +0800">
 		<title lang="zh">光华世界观察</title>
 	</programme>
 	<programme channel="CGTN法语" start="20260811230000 +0800" stop="20260811233000 +0800">
-		<title lang="zh">美食大搜索(法)</title>
+		<title lang="zh">美食大搜索</title>
 	</programme>
-	<programme channel="CGTN法语" start="20260811233000 +0800" stop="20260811235900 +0800">
-		<title lang="zh">魅力东方</title>
-	</programme>
-	<programme channel="CGTN法语" start="20260812000000 +0800" stop="20260812001500 +0800">
+	<programme channel="CGTN法语" start="20260811233000 +0800" stop="20260812001500 +0800">
 		<title lang="zh">纪录片</title>
-		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN法语" start="20260812001500 +0800" stop="20260812010000 +0800">
 		<title lang="zh">剧场</title>
@@ -30372,147 +30365,199 @@
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811000000 +0800" stop="20260811004500 +0800">
 		<title lang="zh">剧场</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811004500 +0800" stop="20260811013000 +0800">
 		<title lang="zh">剧场</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811013000 +0800" stop="20260811014500 +0800">
 		<title lang="zh">寻味中国</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811014500 +0800" stop="20260811020000 +0800">
 		<title lang="zh">中国通</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811020000 +0800" stop="20260811023000 +0800">
 		<title lang="zh">纪录片</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811023000 +0800" stop="20260811030000 +0800">
 		<title lang="zh">这就是中国</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811030000 +0800" stop="20260811033000 +0800">
 		<title lang="zh">综合新闻</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811033000 +0800" stop="20260811040000 +0800">
 		<title lang="zh">文化之约</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811040000 +0800" stop="20260811043000 +0800">
 		<title lang="zh">纪录片</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811043000 +0800" stop="20260811050000 +0800">
 		<title lang="zh">美洲观察</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811050000 +0800" stop="20260811053000 +0800">
 		<title lang="zh">对话</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811053000 +0800" stop="20260811060000 +0800">
 		<title lang="zh">纪录片</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811060000 +0800" stop="20260811064500 +0800">
 		<title lang="zh">剧场</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811064500 +0800" stop="20260811073000 +0800">
 		<title lang="zh">剧场</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811073000 +0800" stop="20260811074500 +0800">
 		<title lang="zh">寻味中国</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811074500 +0800" stop="20260811080000 +0800">
 		<title lang="zh">中国通</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811080000 +0800" stop="20260811083000 +0800">
 		<title lang="zh">纪录片</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811083000 +0800" stop="20260811090000 +0800">
 		<title lang="zh">这就是中国</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811090000 +0800" stop="20260811093000 +0800">
 		<title lang="zh">综合新闻</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811093000 +0800" stop="20260811100000 +0800">
 		<title lang="zh">纪录片</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811100000 +0800" stop="20260811103000 +0800">
 		<title lang="zh">综合新闻</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811103000 +0800" stop="20260811110000 +0800">
 		<title lang="zh">美洲观察</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811110000 +0800" stop="20260811113000 +0800">
 		<title lang="zh">对话</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811113000 +0800" stop="20260811121500 +0800">
 		<title lang="zh">剧场</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811121500 +0800" stop="20260811130000 +0800">
 		<title lang="zh">剧场</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811130000 +0800" stop="20260811133000 +0800">
 		<title lang="zh">综合新闻</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811133000 +0800" stop="20260811134500 +0800">
 		<title lang="zh">寻味中国</title>
+		<desc lang="zh">欢迎使用</desc>
+	</programme>
+	<programme channel="CGTN西班牙语" start="20260811133000 +0800" stop="20260811134500 +0800">
+		<title lang="zh">寻味中国</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811134500 +0800" stop="20260811140000 +0800">
 		<title lang="zh">中国通</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811140000 +0800" stop="20260811143000 +0800">
 		<title lang="zh">纪录片</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811143000 +0800" stop="20260811150000 +0800">
 		<title lang="zh">这就是中国</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811150000 +0800" stop="20260811153000 +0800">
 		<title lang="zh">美洲观察</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811153000 +0800" stop="20260811160000 +0800">
 		<title lang="zh">纪录片</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811160000 +0800" stop="20260811163000 +0800">
 		<title lang="zh">综合新闻</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811163000 +0800" stop="20260811170000 +0800">
 		<title lang="zh">对话</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811170000 +0800" stop="20260811173000 +0800">
 		<title lang="zh">综合新闻</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811173000 +0800" stop="20260811180000 +0800">
 		<title lang="zh">纪录片</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811180000 +0800" stop="20260811184500 +0800">
 		<title lang="zh">剧场</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811184500 +0800" stop="20260811193000 +0800">
 		<title lang="zh">剧场</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811193000 +0800" stop="20260811194500 +0800">
 		<title lang="zh">寻味中国</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811194500 +0800" stop="20260811200000 +0800">
 		<title lang="zh">中国通</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811200000 +0800" stop="20260811203000 +0800">
 		<title lang="zh">纪录片</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811203000 +0800" stop="20260811210000 +0800">
 		<title lang="zh">这就是中国</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811210000 +0800" stop="20260811213000 +0800">
 		<title lang="zh">综合新闻</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811213000 +0800" stop="20260811220000 +0800">
 		<title lang="zh">纪录片</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811220000 +0800" stop="20260811223000 +0800">
 		<title lang="zh">纪录片</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811223000 +0800" stop="20260811230000 +0800">
 		<title lang="zh">美洲观察</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811230000 +0800" stop="20260811233000 +0800">
 		<title lang="zh">对话</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260811233000 +0800" stop="20260812000000 +0800">
 		<title lang="zh">纪录片</title>
+		<desc lang="zh">欢迎使用</desc>
 	</programme>
 	<programme channel="CGTN西班牙语" start="20260812000000 +0800" stop="20260812004500 +0800">
 		<title lang="zh">剧场</title>
@@ -74394,142 +74439,142 @@
 		<title lang="zh">购物栏目</title>
 	</programme>
 	<programme channel="峨眉电影" start="20260811000000 +0800" stop="20260811000800 +0800">
-		<title lang="zh">购物栏目</title>
+		<title lang="zh">《购物栏目》</title>
 	</programme>
 	<programme channel="峨眉电影" start="20260811000800 +0800" stop="20260811012200 +0800">
-		<title lang="zh">影响</title>
+		<title lang="zh">《影响》（重播）</title>
 	</programme>
 	<programme channel="峨眉电影" start="20260811012200 +0800" stop="20260811013500 +0800">
-		<title lang="zh">跟着电影去旅行电影漫谈等</title>
+		<title lang="zh">《跟着电影去旅行》+《电影漫�...</title>
 	</programme>
 	<programme channel="峨眉电影" start="20260811013500 +0800" stop="20260811014700 +0800">
-		<title lang="zh">四川味道</title>
+		<title lang="zh">《四川味道》（重播）</title>
 	</programme>
-	<programme channel="峨眉电影" start="20260811014700 +0800" stop="20260811040000 +0800">
-		<title lang="zh">真过影</title>
-	</programme>
-	<programme channel="峨眉电影" start="20260811040000 +0800" stop="20260811050700 +0800">
-		<title lang="zh">真过影</title>
-	</programme>
-	<programme channel="峨眉电影" start="20260811050700 +0800" stop="20260811070000 +0800">
-		<title lang="zh">真过影</title>
+	<programme channel="峨眉电影" start="20260811014700 +0800" stop="20260811070000 +0800">
+		<title lang="zh">《真过影》</title>
 	</programme>
 	<programme channel="峨眉电影" start="20260811070000 +0800" stop="20260811070600 +0800">
-		<title lang="zh">集团宣传家味研究所</title>
+		<title lang="zh">集团宣传+《家味研究所》</title>
 	</programme>
 	<programme channel="峨眉电影" start="20260811070600 +0800" stop="20260811074100 +0800">
-		<title lang="zh">影到位(上)</title>
+		<title lang="zh">《影到位上》</title>
 	</programme>
-	<programme channel="峨眉电影" start="20260811074100 +0800" stop="20260811080000 +0800">
-		<title lang="zh">影到位(下)</title>
-	</programme>
-	<programme channel="峨眉电影" start="20260811080000 +0800" stop="20260811081600 +0800">
-		<title lang="zh">影到位(下)</title>
+	<programme channel="峨眉电影" start="20260811074100 +0800" stop="20260811081600 +0800">
+		<title lang="zh">《影到位下》</title>
 	</programme>
 	<programme channel="峨眉电影" start="20260811081600 +0800" stop="20260811083600 +0800">
-		<title lang="zh">小峨臻品</title>
+		<title lang="zh">《小峨臻品》（重播）</title>
 	</programme>
 	<programme channel="峨眉电影" start="20260811083600 +0800" stop="20260811091300 +0800">
-		<title lang="zh">经典影院(上)</title>
+		<title lang="zh">《经典影院上》</title>
 	</programme>
 	<programme channel="峨眉电影" start="20260811091300 +0800" stop="20260811093300 +0800">
-		<title lang="zh">小峨臻品</title>
+		<title lang="zh">《小峨臻品》</title>
 	</programme>
 	<programme channel="峨眉电影" start="20260811093300 +0800" stop="20260811101000 +0800">
-		<title lang="zh">经典影院(下)</title>
+		<title lang="zh">《经典影院下》</title>
 	</programme>
 	<programme channel="峨眉电影" start="20260811101000 +0800" stop="20260811103200 +0800">
-		<title lang="zh">商务栏目</title>
+		<title lang="zh">《商务栏目1》</title>
 	</programme>
 	<programme channel="峨眉电影" start="20260811103200 +0800" stop="20260811110700 +0800">
-		<title lang="zh">惊蛰(15)</title>
+		<title lang="zh">《剧好看1：惊蛰第15集》（重播�...</title>
 	</programme>
 	<programme channel="峨眉电影" start="20260811110700 +0800" stop="20260811112900 +0800">
-		<title lang="zh">商务栏目</title>
+		<title lang="zh">《商务栏目2》</title>
 	</programme>
 	<programme channel="峨眉电影" start="20260811112900 +0800" stop="20260811120400 +0800">
-		<title lang="zh">惊蛰(16)</title>
+		<title lang="zh">《剧好看2：惊蛰第16集》（重播�...</title>
 	</programme>
 	<programme channel="峨眉电影" start="20260811120400 +0800" stop="20260811122600 +0800">
-		<title lang="zh">商务栏目</title>
+		<title lang="zh">《商务栏目3》</title>
 	</programme>
 	<programme channel="峨眉电影" start="20260811122600 +0800" stop="20260811130100 +0800">
-		<title lang="zh">惊蛰(17)</title>
+		<title lang="zh">《剧好看3：惊蛰第17集》（重播�...</title>
 	</programme>
 	<programme channel="峨眉电影" start="20260811130100 +0800" stop="20260811132300 +0800">
-		<title lang="zh">商务栏目</title>
+		<title lang="zh">《商务栏目4》</title>
 	</programme>
 	<programme channel="峨眉电影" start="20260811132300 +0800" stop="20260811135800 +0800">
-		<title lang="zh">惊蛰(18)</title>
+		<title lang="zh">《剧好看4：惊蛰第18集》</title>
 	</programme>
-	<programme channel="峨眉电影" start="20260811135800 +0800" stop="20260811142200 +0800">
-		<title lang="zh">商务栏目</title>
+	<programme channel="峨眉电影" start="20260811135800 +0800" stop="20260811141800 +0800">
+		<title lang="zh">《商务栏目5》</title>
+	</programme>
+	<programme channel="峨眉电影" start="20260811141800 +0800" stop="20260811142200 +0800">
+		<title lang="zh">《跟着电影去旅行》</title>
 	</programme>
 	<programme channel="峨眉电影" start="20260811142200 +0800" stop="20260811145700 +0800">
-		<title lang="zh">惊蛰(19)</title>
+		<title lang="zh">《剧好看5：惊蛰第19集》</title>
 	</programme>
 	<programme channel="峨眉电影" start="20260811145700 +0800" stop="20260811151900 +0800">
-		<title lang="zh">商务栏目</title>
+		<title lang="zh">《商务栏目6》</title>
 	</programme>
 	<programme channel="峨眉电影" start="20260811151900 +0800" stop="20260811155400 +0800">
-		<title lang="zh">惊蛰(20)</title>
+		<title lang="zh">《剧好看6：惊蛰第20集》</title>
 	</programme>
 	<programme channel="峨眉电影" start="20260811155400 +0800" stop="20260811161600 +0800">
-		<title lang="zh">商务栏目</title>
+		<title lang="zh">《商务栏目7》</title>
 	</programme>
 	<programme channel="峨眉电影" start="20260811161600 +0800" stop="20260811165100 +0800">
-		<title lang="zh">惊蛰(21)</title>
+		<title lang="zh">《剧好看7：惊蛰第21集》</title>
 	</programme>
 	<programme channel="峨眉电影" start="20260811165100 +0800" stop="20260811171300 +0800">
-		<title lang="zh">商务栏目</title>
+		<title lang="zh">《商务栏目8》</title>
 	</programme>
 	<programme channel="峨眉电影" start="20260811171300 +0800" stop="20260811173400 +0800">
-		<title lang="zh">惊蛰(22)</title>
+		<title lang="zh">《剧好看8：惊蛰第22集》</title>
 	</programme>
-	<programme channel="峨眉电影" start="20260811173400 +0800" stop="20260811180000 +0800">
-		<title lang="zh">商务栏目</title>
+	<programme channel="峨眉电影" start="20260811173400 +0800" stop="20260811175400 +0800">
+		<title lang="zh">《商务栏目9》</title>
+	</programme>
+	<programme channel="峨眉电影" start="20260811175400 +0800" stop="20260811175700 +0800">
+		<title lang="zh">《集团宣传》+《公益宣传》</title>
+	</programme>
+	<programme channel="峨眉电影" start="20260811175700 +0800" stop="20260811180000 +0800">
+		<title lang="zh">《娱乐公社》</title>
 	</programme>
 	<programme channel="峨眉电影" start="20260811180000 +0800" stop="20260811180500 +0800">
-		<title lang="zh">四川味道</title>
+		<title lang="zh">《四川味道》</title>
 	</programme>
 	<programme channel="峨眉电影" start="20260811180500 +0800" stop="20260811181500 +0800">
-		<title lang="zh">购物栏目</title>
+		<title lang="zh">《购物栏目》</title>
 	</programme>
 	<programme channel="峨眉电影" start="20260811181500 +0800" stop="20260811183000 +0800">
-		<title lang="zh">栏目集锦</title>
+		<title lang="zh">《栏目集锦A》</title>
 	</programme>
 	<programme channel="峨眉电影" start="20260811183000 +0800" stop="20260811195300 +0800">
-		<title lang="zh">影响12345</title>
+		<title lang="zh">《影响12345》</title>
 	</programme>
 	<programme channel="峨眉电影" start="20260811195300 +0800" stop="20260811200300 +0800">
-		<title lang="zh">购物栏目</title>
+		<title lang="zh">《购物栏目》</title>
 	</programme>
 	<programme channel="峨眉电影" start="20260811200300 +0800" stop="20260811200800 +0800">
-		<title lang="zh">公益宣传</title>
+		<title lang="zh">《公益宣传》</title>
 	</programme>
 	<programme channel="峨眉电影" start="20260811200800 +0800" stop="20260811204300 +0800">
-		<title lang="zh">黑玫瑰(34)</title>
+		<title lang="zh">《剧宝藏1：黑玫瑰第34集》</title>
 	</programme>
 	<programme channel="峨眉电影" start="20260811204300 +0800" stop="20260811210800 +0800">
-		<title lang="zh">购物栏目</title>
+		<title lang="zh">《购物栏目》</title>
 	</programme>
 	<programme channel="峨眉电影" start="20260811210800 +0800" stop="20260811214300 +0800">
-		<title lang="zh">黑玫瑰(35)</title>
+		<title lang="zh">《剧宝藏2：黑玫瑰第35集》</title>
 	</programme>
 	<programme channel="峨眉电影" start="20260811214300 +0800" stop="20260811220800 +0800">
-		<title lang="zh">购物栏目</title>
+		<title lang="zh">《购物栏目》</title>
 	</programme>
 	<programme channel="峨眉电影" start="20260811220800 +0800" stop="20260811224300 +0800">
-		<title lang="zh">黑玫瑰(36)</title>
+		<title lang="zh">《剧宝藏3：黑玫瑰第36集》</title>
 	</programme>
 	<programme channel="峨眉电影" start="20260811224300 +0800" stop="20260811230800 +0800">
-		<title lang="zh">购物栏目</title>
+		<title lang="zh">《购物栏目》</title>
 	</programme>
 	<programme channel="峨眉电影" start="20260811230800 +0800" stop="20260811234300 +0800">
-		<title lang="zh">黑玫瑰(37)</title>
+		<title lang="zh">《剧宝藏4：黑玫瑰第37集》</title>
 	</programme>
-	<programme channel="峨眉电影" start="20260811234300 +0800" stop="20260811235900 +0800">
-		<title lang="zh">购物栏目</title>
+	<programme channel="峨眉电影" start="20260811234300 +0800" stop="20260812000000 +0800">
+		<title lang="zh">《购物栏目》</title>
 	</programme>
 	<channel id="广东卫视">
 		<display-name lang="zh">广东卫视</display-name>
