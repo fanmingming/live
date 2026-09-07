@@ -1,6 +1,5 @@
 <html>
 <script src="jquery-1.8.3.min.js"></script>
-<script src="md5.min.js"></script>
 <script language="javascript">
 var vid = location.href.split('html?id=')[1];
 var n = [];
@@ -165,13 +164,10 @@ var n = [];
    n['fhzx'] = 'xfylHD'; //凤凰资讯
    n['qsjl'] = 'qsjlHD'; //求索纪录
 
-timestamps = new Date().getTime();
-sign = md5('aIErXY1rYjSpjQs7pq2Gp5P8k2W7P^Y@appIdkdds-chongqingdemocityId5AplayId' + n[vid] + 'relativeId' + n[vid] + 'timestamps' + timestamps + 'type1');
-url = 'http://portal.centre.bo.cbnbn.cn/others/common/playUrlNoAuth?cityId=5A&playId='+n[vid]+'&relativeId='+n[vid]+'&type=1';
+url = '/api/cq?playId='+n[vid];
 $.ajax({
   type:'get',
   url:url,
-  headers:{"appId": "kdds-chongqingdemo","sign": sign,"timestamps":timestamps},
   success:function(res){
        m3u8 = res.data.result.protocol[0].transcode[0].url;
 if(vid == 'cctv4k'||vid == 'cctv16_4k'||vid == 'hxjc4k'){
