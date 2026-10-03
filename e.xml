@@ -3818,44 +3818,6 @@
 	<programme channel="C" start="20261002233000 +0800" stop="20261003000000 +0800">
 		<title lang="zh">晚间新闻 及 国宝时刻 及 时事中国 及 时事通识</title>
 	</programme>
-	<programme channel="C" start="20261003000000 +0800" stop="20261003003000 +0800">
-		<title lang="zh">深宵新闻报道 及 中华掠影 及 新闻档案</title>
-	</programme>
-	<programme channel="C" start="20261003003000 +0800" stop="20261003010000 +0800">
-		<title lang="zh">深宵新闻报道 及 俯瞰神州 及 三日天气预报 及 环球新闻档案</title>
-	</programme>
-	<programme channel="C" start="20261003010000 +0800" stop="20261003013000 +0800">
-		<title lang="zh">深宵新闻报道 及 时事多面睇</title>
-	</programme>
-	<programme channel="C" start="20261003013000 +0800" stop="20261003020000 +0800">
-		<title lang="zh">深宵新闻报道 及 时事中国</title>
-	</programme>
-	<programme channel="C" start="20261003020000 +0800" stop="20261003023000 +0800">
-		<title lang="zh">深宵新闻报道 及 时事通识 及 三日天气预报 及 PicoLabb 特约: 世界观</title>
-	</programme>
-	<programme channel="C" start="20261003023000 +0800" stop="20261003030000 +0800">
-		<title lang="zh">利嘉阁地产45周年真盘源特约: 今日有楼睇</title>
-		<desc lang="zh">住屋与市民生活息息相关，节目为观众提供最新楼市成交及市场资讯，每集均设有不同专题，请来专家分享家居保养「小贴士」、讲解置业法规。</desc>
-	</programme>
-	<programme channel="C" start="20261003030000 +0800" stop="20261003033000 +0800">
-		<title lang="zh">深宵新闻报道 及 时事多面睇</title>
-	</programme>
-	<programme channel="C" start="20261003033000 +0800" stop="20261003040000 +0800">
-		<title lang="zh">深宵新闻报道 及 俯瞰神州 及 时事中国</title>
-	</programme>
-	<programme channel="C" start="20261003040000 +0800" stop="20261003043000 +0800">
-		<title lang="zh">深宵新闻报道 及 PicoLabb 特约: 世界观 及 中华掠影</title>
-	</programme>
-	<programme channel="C" start="20261003043000 +0800" stop="20261003050000 +0800">
-		<title lang="zh">利嘉阁地产45周年真盘源特约: 今日有楼睇 及 三日天气预报</title>
-		<desc lang="zh">住屋与市民生活息息相关，节目为观众提供最新楼市成交及市场资讯，每集均设有不同专题，请来专家分享家居保养「小贴士」、讲解置业法规。</desc>
-	</programme>
-	<programme channel="C" start="20261003050000 +0800" stop="20261003053000 +0800">
-		<title lang="zh">深宵新闻报道 及 时事多面睇</title>
-	</programme>
-	<programme channel="C" start="20261003053000 +0800" stop="20261003060000 +0800">
-		<title lang="zh">深宵新闻报道 及 时事中国</title>
-	</programme>
 	<programme channel="C" start="20261003060000 +0800" stop="20261003063000 +0800">
 		<title lang="zh">香港早晨</title>
 	</programme>
@@ -4835,7 +4797,186 @@
 	<programme channel="C" start="20261009050000 +0800" stop="20261009053000 +0800">
 		<title lang="zh">深宵新闻报道</title>
 	</programme>
-	<programme channel="C" start="20261009053000 +0800" stop="20261010000000 +0800">
+	<programme channel="C" start="20261009053000 +0800" stop="20261009060000 +0800">
+		<title lang="zh">深宵新闻报道 及 时事中国</title>
+	</programme>
+	<programme channel="C" start="20261009060000 +0800" stop="20261009063000 +0800">
+		<title lang="zh">香港早晨</title>
+	</programme>
+	<programme channel="C" start="20261009063000 +0800" stop="20261009070000 +0800">
+		<title lang="zh">香港早晨</title>
+	</programme>
+	<programme channel="C" start="20261009070000 +0800" stop="20261009073000 +0800">
+		<title lang="zh">香港早晨</title>
+	</programme>
+	<programme channel="C" start="20261009073000 +0800" stop="20261009074000 +0800">
+		<title lang="zh">香港早晨 及 交通消息</title>
+	</programme>
+	<programme channel="C" start="20261009074000 +0800" stop="20261009074500 +0800">
+		<title lang="zh">环球新闻档案</title>
+	</programme>
+	<programme channel="C" start="20261009074500 +0800" stop="20261009083000 +0800">
+		<title lang="zh">香港早晨 及 交通消息</title>
+	</programme>
+	<programme channel="C" start="20261009083000 +0800" stop="20261009090000 +0800">
+		<title lang="zh">香港早晨 及 交通消息</title>
+	</programme>
+	<programme channel="C" start="20261009090000 +0800" stop="20261009093000 +0800">
+		<title lang="zh">新闻报道 及 俯瞰神州 及 中华掠影</title>
+	</programme>
+	<programme channel="C" start="20261009093000 +0800" stop="20261009100000 +0800">
+		<title lang="zh">开市第一击 及 新闻报道 及 三日天气预报</title>
+	</programme>
+	<programme channel="C" start="20261009100000 +0800" stop="20261009103000 +0800">
+		<title lang="zh">新闻报道</title>
+	</programme>
+	<programme channel="C" start="20261009103000 +0800" stop="20261009104500 +0800">
+		<title lang="zh">新闻报道 及 PicoLabb 特约: 世界观 及 香港高升基金呈献:港好五年规划</title>
+	</programme>
+	<programme channel="C" start="20261009104500 +0800" stop="20261009105500 +0800">
+		<title lang="zh">新闻报道 及 新鸿基信贷特约: 港楼 . 讲楼</title>
+	</programme>
+	<programme channel="C" start="20261009105500 +0800" stop="20261009110000 +0800">
+		<title lang="zh">环球新闻档案</title>
+	</programme>
+	<programme channel="C" start="20261009110000 +0800" stop="20261009113000 +0800">
+		<title lang="zh">新闻报道 及 赛马会智启潜能学习计划呈献:「特」适其适 及 新闻档案 及 马百良熬鸡精呈献 : 四季食疗</title>
+	</programme>
+	<programme channel="C" start="20261009113000 +0800" stop="20261009120000 +0800">
+		<title lang="zh">新闻报道 及 宏利保险呈献: 湾区零距离 及 三日天气预报 及 时事通识</title>
+	</programme>
+	<programme channel="C" start="20261009120000 +0800" stop="20261009123000 +0800">
+		<title lang="zh">午间新闻 及 新鸿基信贷特约: 港楼 . 讲楼</title>
+	</programme>
+	<programme channel="C" start="20261009123000 +0800" stop="20261009130000 +0800">
+		<title lang="zh">午间新闻</title>
+	</programme>
+	<programme channel="C" start="20261009130000 +0800" stop="20261009133000 +0800">
+		<title lang="zh">新闻报道 及 俯瞰神州 及 中华掠影 及 时事通识</title>
+	</programme>
+	<programme channel="C" start="20261009133000 +0800" stop="20261009140000 +0800">
+		<title lang="zh">新闻报道 及 三日天气预报</title>
+	</programme>
+	<programme channel="C" start="20261009140000 +0800" stop="20261009143000 +0800">
+		<title lang="zh">新闻报道 及 新闻档案</title>
+	</programme>
+	<programme channel="C" start="20261009143000 +0800" stop="20261009144500 +0800">
+		<title lang="zh">新闻报道 及 PicoLabb 特约: 世界观</title>
+	</programme>
+	<programme channel="C" start="20261009144500 +0800" stop="20261009150000 +0800">
+		<title lang="zh">新闻报道 及 新鸿基信贷特约: 港楼 . 讲楼</title>
+	</programme>
+	<programme channel="C" start="20261009150000 +0800" stop="20261009153000 +0800">
+		<title lang="zh">新闻报道 及 深港沪快讯 及 环球新闻档案</title>
+	</programme>
+	<programme channel="C" start="20261009153000 +0800" stop="20261009160000 +0800">
+		<title lang="zh">新闻报道 及 宏利保险呈献: 湾区零距离 及 三日天气预报</title>
+	</programme>
+	<programme channel="C" start="20261009160000 +0800" stop="20261009163000 +0800">
+		<title lang="zh">新闻报道 及 PicoLabb 特约: 世界观</title>
+	</programme>
+	<programme channel="C" start="20261009163000 +0800" stop="20261009170000 +0800">
+		<title lang="zh">新闻报道 及 俯瞰神州 及 中华掠影</title>
+	</programme>
+	<programme channel="C" start="20261009170000 +0800" stop="20261009172500 +0800">
+		<title lang="zh">新闻报道 及 新鸿基信贷特约: 港楼 . 讲楼</title>
+	</programme>
+	<programme channel="C" start="20261009172500 +0800" stop="20261009173000 +0800">
+		<title lang="zh">新闻档案</title>
+	</programme>
+	<programme channel="C" start="20261009173000 +0800" stop="20261009180000 +0800">
+		<title lang="zh">新闻报道 及 交通消息 及 三日天气预报 及 马百良熬鸡精呈献 : 四季食疗</title>
+	</programme>
+	<programme channel="C" start="20261009180000 +0800" stop="20261009183000 +0800">
+		<title lang="zh">新闻报道 及 交通消息 及 时事通识</title>
+	</programme>
+	<programme channel="C" start="20261009183000 +0800" stop="20261009190000 +0800">
+		<title lang="zh">手语新闻报道</title>
+	</programme>
+	<programme channel="C" start="20261009190000 +0800" stop="20261009193000 +0800">
+		<title lang="zh">新闻报道 及 赛马会智启潜能学习计划呈献:「特」适其适 及 新鸿基信贷特约: 港楼 . 讲楼</title>
+	</programme>
+	<programme channel="C" start="20261009193000 +0800" stop="20261009200000 +0800">
+		<title lang="zh">新闻报道</title>
+	</programme>
+	<programme channel="C" start="20261009200000 +0800" stop="20261009200500 +0800">
+		<title lang="zh">富途证券特约: 富途讲美股</title>
+		<desc lang="zh">与富途证券联手制作的五分钟美股专题节目，每个美股交易日开市前由专家剖析当天大市动态和走势，帮助投资者捉紧当前投资机会。</desc>
+	</programme>
+	<programme channel="C" start="20261009200500 +0800" stop="20261009203000 +0800">
+		<title lang="zh">无线8点一小时新闻</title>
+		<desc lang="zh">报道本地、两岸及国际重要新闻，并提供香港当日天气及预测七日天气。</desc>
+	</programme>
+	<programme channel="C" start="20261009203000 +0800" stop="20261009205000 +0800">
+		<title lang="zh">时事中国 及 无线8点一小时新闻</title>
+		<desc lang="zh">报道本地、两岸及国际重要新闻，并提供香港当日天气及预测七日天气。</desc>
+	</programme>
+	<programme channel="C" start="20261009205000 +0800" stop="20261009210000 +0800">
+		<title lang="zh">立桥人寿特约: 天气报告 及 新鸿基信贷特约: 港楼 . 讲楼</title>
+	</programme>
+	<programme channel="C" start="20261009210000 +0800" stop="20261009213000 +0800">
+		<title lang="zh">新闻报道 及 大国外交 及 新闻档案 及 PicoLabb 特约: 世界观</title>
+	</programme>
+	<programme channel="C" start="20261009213000 +0800" stop="20261009214500 +0800">
+		<title lang="zh">时事多面睇</title>
+	</programme>
+	<programme channel="C" start="20261009214500 +0800" stop="20261009215500 +0800">
+		<title lang="zh">新闻报道 及 立桥人寿特约: 天气报告</title>
+	</programme>
+	<programme channel="C" start="20261009215500 +0800" stop="20261009220000 +0800">
+		<title lang="zh">环球新闻档案</title>
+	</programme>
+	<programme channel="C" start="20261009220000 +0800" stop="20261009223000 +0800">
+		<title lang="zh">新闻报道 及 大国外交 及 时事通识</title>
+	</programme>
+	<programme channel="C" start="20261009223000 +0800" stop="20261009224000 +0800">
+		<title lang="zh">新闻报道 及 PicoLabb 特约: 世界观 及 香港高升基金呈献:港好五年规划</title>
+	</programme>
+	<programme channel="C" start="20261009224000 +0800" stop="20261009230000 +0800">
+		<title lang="zh">财经多国度 及 新闻报道 及 三日天气预报</title>
+	</programme>
+	<programme channel="C" start="20261009230000 +0800" stop="20261009233000 +0800">
+		<title lang="zh">晚间新闻 及 大国外交 及 新鸿基信贷特约: 港楼 . 讲楼</title>
+	</programme>
+	<programme channel="C" start="20261009233000 +0800" stop="20261010000000 +0800">
+		<title lang="zh">晚间新闻 及 时事中国 及 时事通识</title>
+	</programme>
+	<programme channel="C" start="20261010000000 +0800" stop="20261010003000 +0800">
+		<title lang="zh">深宵新闻报道 及 中华掠影 及 新闻档案</title>
+	</programme>
+	<programme channel="C" start="20261010003000 +0800" stop="20261010010000 +0800">
+		<title lang="zh">深宵新闻报道 及 俯瞰神州 及 三日天气预报 及 环球新闻档案</title>
+	</programme>
+	<programme channel="C" start="20261010010000 +0800" stop="20261010013000 +0800">
+		<title lang="zh">深宵新闻报道 及 时事多面睇</title>
+	</programme>
+	<programme channel="C" start="20261010013000 +0800" stop="20261010020000 +0800">
+		<title lang="zh">深宵新闻报道 及 时事中国</title>
+	</programme>
+	<programme channel="C" start="20261010020000 +0800" stop="20261010023000 +0800">
+		<title lang="zh">深宵新闻报道 及 时事通识 及 三日天气预报 及 PicoLabb 特约: 世界观</title>
+	</programme>
+	<programme channel="C" start="20261010023000 +0800" stop="20261010030000 +0800">
+		<title lang="zh">利嘉阁地产45周年真盘源特约: 今日有楼睇</title>
+		<desc lang="zh">住屋与市民生活息息相关，节目为观众提供最新楼市成交及市场资讯，每集均设有不同专题，请来专家分享家居保养「小贴士」、讲解置业法规。</desc>
+	</programme>
+	<programme channel="C" start="20261010030000 +0800" stop="20261010033000 +0800">
+		<title lang="zh">深宵新闻报道 及 时事多面睇</title>
+	</programme>
+	<programme channel="C" start="20261010033000 +0800" stop="20261010040000 +0800">
+		<title lang="zh">深宵新闻报道 及 俯瞰神州 及 时事中国</title>
+	</programme>
+	<programme channel="C" start="20261010040000 +0800" stop="20261010043000 +0800">
+		<title lang="zh">深宵新闻报道 及 PicoLabb 特约: 世界观 及 中华掠影</title>
+	</programme>
+	<programme channel="C" start="20261010043000 +0800" stop="20261010050000 +0800">
+		<title lang="zh">利嘉阁地产45周年真盘源特约: 今日有楼睇 及 三日天气预报</title>
+		<desc lang="zh">住屋与市民生活息息相关，节目为观众提供最新楼市成交及市场资讯，每集均设有不同专题，请来专家分享家居保养「小贴士」、讲解置业法规。</desc>
+	</programme>
+	<programme channel="C" start="20261010050000 +0800" stop="20261010053000 +0800">
+		<title lang="zh">深宵新闻报道 及 时事多面睇</title>
+	</programme>
+	<programme channel="C" start="20261010053000 +0800" stop="20261011000000 +0800">
 		<title lang="zh">深宵新闻报道 及 时事中国</title>
 	</programme>
 	<channel id="CCTV1">
@@ -34324,38 +34465,8 @@
 	<programme channel="DTV" start="20261002214700 +0800" stop="20261002223800 +0800">
 		<title lang="zh">《未来中国》精编(8)</title>
 	</programme>
-	<programme channel="DTV" start="20261002223800 +0800" stop="20261003000100 +0800">
+	<programme channel="DTV" start="20261002223800 +0800" stop="20261003000000 +0800">
 		<title lang="zh">极限挑战宝藏行-和美乡村季(4)</title>
-	</programme>
-	<programme channel="DTV" start="20261003000100 +0800" stop="20261003002600 +0800">
-		<title lang="zh">下一站(卫视文件化)(240) 指尖的语言</title>
-	</programme>
-	<programme channel="DTV" start="20261003002600 +0800" stop="20261003012500 +0800">
-		<title lang="zh">东方新闻(4K)</title>
-	</programme>
-	<programme channel="DTV" start="20261003012500 +0800" stop="20261003015000 +0800">
-		<title lang="zh">寻味(283)「老铺寻香」第二集:百年粤菜</title>
-	</programme>
-	<programme channel="DTV" start="20261003015000 +0800" stop="20261003015200 +0800">
-		<title lang="zh">形象片:上海,灵感之城</title>
-	</programme>
-	<programme channel="DTV" start="20261003015200 +0800" stop="20261003022300 +0800">
-		<title lang="zh">加油!小店—人间烟火季(6)</title>
-	</programme>
-	<programme channel="DTV" start="20261003022300 +0800" stop="20261003025400 +0800">
-		<title lang="zh">加油!小店—人间烟火季(7)</title>
-	</programme>
-	<programme channel="DTV" start="20261003025400 +0800" stop="20261003032500 +0800">
-		<title lang="zh">加油!小店—人间烟火季(8)</title>
-	</programme>
-	<programme channel="DTV" start="20261003032500 +0800" stop="20261003042200 +0800">
-		<title lang="zh">《一路前行》精编(6)——童真</title>
-	</programme>
-	<programme channel="DTV" start="20261003042200 +0800" stop="20261003055800 +0800">
-		<title lang="zh">极限挑战宝藏行-和美乡村季(5)</title>
-	</programme>
-	<programme channel="DTV" start="20261003055800 +0800" stop="20261003060000 +0800">
-		<title lang="zh">探秘中国民居之美—四川罗城船型古镇</title>
 	</programme>
 	<programme channel="DTV" start="20261003060000 +0800" stop="20261003061000 +0800">
 		<title lang="zh">探秘中国民居之美—四川罗城船型古镇</title>
@@ -34984,8 +35095,35 @@
 	<programme channel="DTV" start="20261009052100 +0800" stop="20261009052600 +0800">
 		<title lang="zh">了不起的宝藏·探宝上博 第二季(16)春水玉饰</title>
 	</programme>
-	<programme channel="DTV" start="20261009052600 +0800" stop="20261010000000 +0800">
+	<programme channel="DTV" start="20261009052600 +0800" stop="20261009060000 +0800">
 		<title lang="zh">一路前行第二季(2)</title>
+	</programme>
+	<programme channel="DTV" start="20261009060000 +0800" stop="20261009061000 +0800">
+		<title lang="zh">一路前行第二季(2)</title>
+	</programme>
+	<programme channel="DTV" start="20261009061000 +0800" stop="20261009063500 +0800">
+		<title lang="zh">寻味·争霸赛(7)碰撞 味变新生</title>
+	</programme>
+	<programme channel="DTV" start="20261009063500 +0800" stop="20261009070000 +0800">
+		<title lang="zh">《名医话养生》(62):心脏体检,不要盲目「加项」</title>
+	</programme>
+	<programme channel="DTV" start="20261009070000 +0800" stop="20261009090000 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20261009090000 +0800" stop="20261009120000 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20261009120000 +0800" stop="20261009150000 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20261009150000 +0800" stop="20261009180000 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20261009180000 +0800" stop="20261009210000 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
+	</programme>
+	<programme channel="DTV" start="20261009210000 +0800" stop="20261010000000 +0800">
+		<title lang="zh">频道尚未提供当日节目表</title>
 	</programme>
 	<channel id="SCTV2">
 		<display-name lang="zh">SCTV2</display-name>
