@@ -34,7 +34,9 @@ function formatDateTime(time = '') {
 async function diypHandle(channel, date, request) {
     const tag = date.replace(/-/g, '.');
     const res = await jq_fetch(new Request(`https://github.com/celetor/epg/releases/download/${tag}/112114.json`, request));
+    if (!res.ok) throw new Error(`EPG fetch failed: ${res.status}`);
     const data = await res.json();
+    if (!Array.isArray(data)) throw new Error('Invalid EPG data format');
 
     const program_info = {
         date,
