@@ -19,12 +19,12 @@
 
 | 类 别  | 调用路径                                       | 最后更新   |
 |-------|------------------------------------------------|------------|
-| 📺电视  | [https://live.fanmingming.cn/tv/{name}.png](https://github.com/fanmingming/live/tree/main/tv) | 2025.04.01    |
-| 📻广播  | [https://live.fanmingming.cn/radio/{name}.png](https://github.com/fanmingming/live/tree/main/radio) | 2024.8.29   |
+| 📺电视  | [https://zzidcn.github.io/live/tv/{name}.png](https://github.com/zzidcn/live/tree/main/tv) | 2025.04.01    |
+| 📻广播  | [https://zzidcn.github.io/live/radio/{name}.png](https://github.com/zzidcn/live/tree/main/radio) | 2024.8.29   |
 
 ### ⛓️创建您的m3u订阅链接：
  - 下载 `demo.m3u` 空白示例文件并使用文本编辑软件打开。
-   - [https://live.fanmingming.cn/tv/m3u/demo.m3u](https://live.fanmingming.cn/tv/m3u/demo.m3u)
+   - [https://live.fanmingming.cn/tv/m3u/demo.m3u](https://zzidcn.github.io/live/tv/m3u/demo.m3u)
 
  - 参考下方示例代码将`可用的CCTV1节目源`替换为您当地可用的直播源链接，依此类推逐个替换。
 
